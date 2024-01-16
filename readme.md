@@ -43,3 +43,5 @@ aws lambda invoke \
  --function-name awsLambdaGoTest \
  --payload '{}' \
  output.json
+
+https://github.com/aws/aws-lambda-go
